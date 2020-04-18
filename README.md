@@ -18,11 +18,11 @@ There will be a script in your
 ## Example of the problem:
 Can you open the three-digit-lock using these clues?
 
-682 One digit is right and in its place
-614 One figit is right but in the wrong place
-206 Two digits are right but both are in the wrong place
-738 All digits are wrong
-380 One digit is right but in the wrong place
+682 One digit is right and in its place<br>
+614 One figit is right but in the wrong place<br>
+206 Two digits are right but both are in the wrong place<br>
+738 All digits are wrong<br>
+380 One digit is right but in the wrong place<br>
 
 
 ## Usage
