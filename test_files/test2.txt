@@ -1,0 +1,6 @@
+digits 4
+correct 1 6820
+wrongplace 1 6145
+wrongplace 2 2063
+allwrong 7381
+wrongplace 1 3802

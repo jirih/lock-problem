@@ -1,0 +1,6 @@
+digits 3
+zcorrect 1 682
+zwrongplace 1 614
+zwrongplace 2 206
+allwrong 738
+zwrongplace 1 380

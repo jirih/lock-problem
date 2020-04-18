@@ -1,0 +1,6 @@
+digits 3
+xcorrect 1 682
+xwrongplace 1 614
+xwrongplace 2 206
+allwrong 738
+xwrongplace 1 380
